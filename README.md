@@ -23,6 +23,8 @@ A curated collection of free and useful resources for developers, cybersecurity 
 - 🤝 Open Source
 - 📝 Resume & Interview Preparation
 
+[JobEmerge](https://www.jobemerge.work) — Freemium job-fit test, resume translator, and Markdown resume editor. A free tier is available; additional features use one-time paid access.
+
 🎯 Why I Created This
 
 I'm building my own career in technology and wanted to collect useful resources that can help students and aspiring developers learn new skills without spending a lot of money.
@@ -48,3 +50,4 @@ If this repository helped you, consider giving it a star and sharing it with som
 ---
 
 Built for learners, developers, and future tech professionals. 🚀💻
+
